@@ -1,0 +1,6 @@
+{
+  "name": "Me & You - Long Distance Couples Space",
+  "description": "Private space for long-distance couples with countdowns, shared journals, plans, important dates, and community feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
